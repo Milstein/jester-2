@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.jester.widgets.HelloWorldWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Hello World</label>
+  <description>my first hello world widget</description>
+</widget>

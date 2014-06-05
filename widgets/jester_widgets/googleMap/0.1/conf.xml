@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.jester.widgets.GoogleMapWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>googleMap</label>
+  <description>Google Map</description>
+</widget>

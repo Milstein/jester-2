@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.jester.widgets.LinkWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>myLink</label>
+  <description>My Link</description>
+</widget>

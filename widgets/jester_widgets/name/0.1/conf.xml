@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.jester.widgets.NameWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Name</label>
+  <description>Name Widget</description>
+</widget>
